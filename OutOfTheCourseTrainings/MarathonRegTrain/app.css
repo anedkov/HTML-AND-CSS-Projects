@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:white;
+    font-size:smaller;
+    margin: 0 auto;
+}
+/* .emailform{
+    /* "margin-top: 10px;
+    margin-bottom: 10px;"
+ }
+  */
+
+/* .grpselection{
+    margin-top:10px;
+    margin-bottom: 10px;
+} */
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    width: 30%;
+    padding: 0.5em 0;
+    margin: 0 auto;
+    font-size:30px;
+    display:run-in;
+    text-align: center;
+    
+}
+#form{
+    height:600px;
+    width: 500px;
+    background-color: white;
+    position:absolute;
+    left: 35%;
+    border-style: solid;
+    border:solid;
+    background-color:red;
+    margin:0 auto;
+    padding-top: 8ch;
+}
+.btn{
+    text-align: center;
+    margin: 0 auto;
+}
+.content{
+    padding-top:10px;
+}
